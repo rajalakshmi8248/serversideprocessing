@@ -132,10 +132,11 @@ urlpatterns = [
 ]
 ```
 
-## OUTPUT:
-![OUTPUT](./EX05.png)
 
-![OUTPUT](./EX5.PNG)
+ OUTPUT:
+![EX05](https://github.com/rajalakshmi8248/serversideprocessing/assets/122860827/5b5ed705-b104-4f7b-8d7f-81b16055146a)
+
+![EX5 T](https://github.com/rajalakshmi8248/serversideprocessing/assets/122860827/a58786de-9405-42c8-9ffb-47bed1a2d427)
 
 
 
